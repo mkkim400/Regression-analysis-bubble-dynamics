@@ -4,14 +4,6 @@ This project performs regression analysis, comparing different equations of stat
 
 ---
 
-## Project Structure
-├── DATA_CMES_vander.xlsx
-├── 1_Plot_Regression.png
-├── dat_regression_output.xlsx
-└── analysis_script.R (this file)
-
----
-
 ## Objective
 
 To analyze multiple physical variables across different EOS models and identify behavioral trends using segmented linear regression on log-transformed data.
