@@ -14,7 +14,6 @@ To analyze multiple physical variables across different EOS models and identify 
 
 Make sure the following packages are installed:
 
-```r
 ggplot2
 data.table
 dplyr
